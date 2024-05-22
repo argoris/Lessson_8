@@ -1,0 +1,31 @@
+.card{
+    border: 1px solid #000;
+    margin: 20px;
+}
+
+.card:hover{
+    background-color: blue;
+    color: #fff;
+}
+
+.male{
+    background-color: blue;
+    color: #fff;
+}
+
+.male:hover{
+    background-color: #fff;
+    color: blue;
+    border:  1px solid #000;
+}
+
+.female{
+    background-color: pink;
+    color: #fff;
+}
+
+.female:hover{
+    background-color: #fff;
+    color: pink;
+    border:  1px solid #000;
+}
